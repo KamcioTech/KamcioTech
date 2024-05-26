@@ -1,0 +1,4 @@
+- 👋 Cześć jestem Kamcio
+- 🗺 Jestem z Polski
+- 💻 Kocham elektronikę
+- 📱💻 Jestem użytkownikiem Android, Windows i Linux
